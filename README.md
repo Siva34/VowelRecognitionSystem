@@ -1,7 +1,8 @@
 # VowelRecognitionSystem
 
 cep is a 3 dimensional array, and can interpret like below:
-         where cep[0] refers to vowel a
+         
+	   where cep[0] refers to vowel a
                cep[1] refers to vowel e
  
            and cep[0][0] points to 1st steady frame of vowel a
