@@ -1,7 +1,4 @@
 # VowelRecognitionSystem
-========================================================================
-    CONSOLE APPLICATION : lc Project Overview
-========================================================================
 
 cep is a 3 dimensional array, and can interpret like below:
          where cep[0] refers to vowel a
